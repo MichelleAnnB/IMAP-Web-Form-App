@@ -4,7 +4,7 @@ Basically, our app behaves like a small offline database. When you fill out the 
 
 How to open it:
 Since it's an admin tool, it's hidden by default on the success page. To toggle it open, go to the 'Thank you!' screen after submitting a form and press this shortcut together:
-👉 Ctrl + Shift + D
+👉 Ctrl + Shift + D 👀😏
 
 What’s inside:
 APPLICATION_INFORMATION: Tracks the transactional stuff like the reference number, application date, diagnosis, and nature of request.
